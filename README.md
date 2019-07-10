@@ -10,3 +10,9 @@ Work done as preliminary analysis for the [Urban Intelligence Lab](http://www.ur
 * Response time and # of incidents by time of day
 * Initial vs actual severity level of the EMS call
 * Response time vs # of incidents by Borough
+
+## Data Sources
+
+NYC Open Data:
+* [EMS Incident Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj)
+* [Zip Code Boundaries](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u)
